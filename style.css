@@ -363,3 +363,10 @@ h3 {
 .menu-dropdown {
   text-align: center;
 }
+
+.copyright {
+  text-align: center;
+  font-size: 14px;
+  color: #5a3c2a;
+  margin-top: 20px;
+}
